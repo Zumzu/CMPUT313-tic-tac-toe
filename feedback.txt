@@ -1,0 +1,11 @@
+- plays normal game
+- players can rejoin after game
+- third player rejected from full room
+- simultanous players in rooms
+- 15s timeout on player moves
+- tracking stats are accurate
+- out of turn moves are prevented
+
+Program total: 75/75
+RFC total: 25/25
+Total: 100/100
