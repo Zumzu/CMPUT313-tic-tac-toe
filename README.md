@@ -1,12 +1,3 @@
-# Assignment 1
-
-```
-# - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
-# Name : Zane
-# CCID : zcrawfor
-# - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
-```
-
 # Protocol Overview  
 This protocol is designed to support a concurrent TCP server to host simultaneous games of tic tac toe between human clients. The server manages up to 5 game rooms concurrently, each hosting exactly one game at a time. All communication follows the request response pattern `<OPERATION>;<body>`  
   
